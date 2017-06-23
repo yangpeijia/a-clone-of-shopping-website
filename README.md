@@ -2,11 +2,11 @@
 
 第一次完成的比较完整的一个项目，断断续续做了一个多星期，包括两个网页——首页和详情页.如下图：  
 
-首页：[戳我浏览](https://yangpeijia.github.io/a-clone-of-shopping-website/copy-index.html）
+首页：[戳我浏览](https://yangpeijia.github.io/a-clone-of-shopping-website/copy-index.html)
 
 ![image](https://github.com/yangpeijia/a-clone-of-shopping-website/blob/master/index.png)  
 
-详情页：[戳我浏览](https://yangpeijia.github.io/a-clone-of-shopping-website/copy-detail.html）  
+详情页：[戳我浏览](https://yangpeijia.github.io/a-clone-of-shopping-website/copy-detail.html)
 
 ![image](https://github.com/yangpeijia/a-clone-of-shopping-website/blob/master/detail.png)
 ***
